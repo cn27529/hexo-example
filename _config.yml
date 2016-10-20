@@ -70,3 +70,6 @@ theme: concise
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  repo: https://github.com/cn27529/hexo-deploy.git
+  branch: master
+  message: deploy
